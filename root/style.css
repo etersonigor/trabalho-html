@@ -1,0 +1,27 @@
+h1{
+    color:brown;
+    font-size: large;
+    text-align: center;
+}
+
+p{
+ text-align:center;   
+}
+
+h2{
+    text-decoration: underline;
+}
+div{
+    border: red 5px solid;
+   /* background-color: grey;*/
+    display: flex;
+   
+}
+
+body{
+    border: red 5px solid;    
+    background-image: url('https://i.pinimg.com/564x/ec/12/fc/ec12fc6ce17809f33db2ca8689e32d3c.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: white;
+}
